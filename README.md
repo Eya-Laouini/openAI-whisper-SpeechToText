@@ -28,7 +28,17 @@ audio.flac
 
 audio.mp3 
 
-audio.wav  
+audio.wav 
+
+audio.mp4
+
+audio.m4a
+
+audio.webm
+
+audio.mpga
+
+audio.mpeg
 
 ```python
 def main():
@@ -52,6 +62,10 @@ There are five model sizes, four with English-only versions, offering speed and 
 | large    |    1550 M     |          N/A          |         large        |     ~10 GB      |       1x          |
 
 The .en models for English-only applications tend to perform better, especially for the tiny.en and base.en models. We observed that the difference becomes less significant for the small.en and medium.en models.
+
+## Languages are supported 
+
+Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Latvian, Lithuanian, Macedonian, Malay, Marathi, Maori, Nepali, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian, Urdu, Vietnamese, and Welsh.
 
 ## Next step
 
