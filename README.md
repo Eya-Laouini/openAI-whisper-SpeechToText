@@ -19,10 +19,7 @@ pip install ipython
 choco install ffmpeg
 ```
 
-## Usage
-
-Put your voice file in the same project folder,
-You can use the following voice file types:
+## file formats are supported
 
 audio.flac 
 
@@ -39,6 +36,10 @@ audio.webm
 audio.mpga
 
 audio.mpeg
+
+## Usage
+
+Put your voice file in the same project folder,
 
 ```python
 def main():
